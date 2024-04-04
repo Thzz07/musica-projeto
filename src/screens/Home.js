@@ -9,6 +9,9 @@ export default function Home({navigation}) {
     title:"Evidências",
     group:"Chitãozinho E Xororó",
     album_image:"https://i1.sndcdn.com/artworks-bidZLZtXoeBFD2Wm-UCUs2A-t500x500.jpg",
+    album:"Cowboy do Asfalto",
+    year:"1990",
+    genre:"Sertanejo",
   }
 
   return (
